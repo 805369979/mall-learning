@@ -21,7 +21,7 @@
     <modules>
         <module>mybatis</module>
         <module>springfox</module>
-        <module>redis</module>
+        <module>redisOP</module>
     </modules>
 
 </project>
