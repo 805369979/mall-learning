@@ -20,6 +20,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>mybatis</module>
+        <module>springfox</module>
+        <module>redis</module>
     </modules>
 
 </project>
