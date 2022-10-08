@@ -22,6 +22,12 @@
         <module>mybatis</module>
         <module>springfox</module>
         <module>redisOP</module>
+        <module>JWT</module>
+        <module>schedule</module>
+        <module>elastic</module>
+        <module>mongdo</module>
+        <module>rabbitmq</module>
+        <module>oss</module>
     </modules>
 
 </project>

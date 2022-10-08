@@ -1,0 +1,1 @@
+mongod --dbpath /Users/xiangzhihong/python/mongodb-osx-x86_64-3.4.10/data/db
